@@ -16,12 +16,12 @@ MATLAB Statistics and Machine learning Toolbox, Deep learning Toolbox. These are
 ### 1. Figure(1) code:
 Run: "test_regression_toy.m"
 
-### 2: Synthetic experiment code:
+### 2. Synthetic experiment code:
 Run:  "test_regression_synthetic.m"
 
-### 3: Regression experiment code:
+### 3. Regression experiment code:
 Run:  "test_regression_real.m"
 
-### 4: Multi class classification experiment code:
+### 4. Multi class classification experiment code:
 Run:  "test_multi_classification.m"
 
