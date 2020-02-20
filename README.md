@@ -8,7 +8,7 @@ Code for the "Piecewise Linear Regression via a Difference of Convex Functions" 
 2. Either of MATLAB optimization toolbox or gurobi integrated with MATLAB (much faster)
 
 ## Optional:
-MATLAB Statistics and Machine learning Toolbox, Deep learning Toolbox these are needed for KNN, SVM and MLP results.
+MATLAB Statistics and Machine learning Toolbox, Deep learning Toolbox. These are needed for KNN, SVM and MLP results.
 
 
 ## How to run?
