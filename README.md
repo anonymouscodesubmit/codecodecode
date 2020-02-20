@@ -3,8 +3,9 @@
 Code for the "Piecewise Linear Regression via a Difference of Convex Functions" is attached.
 
 ## Prerequisites:
-MATLAB version > 2016
-either of MATLAB optimization toolbox or gurobi integrated with MATLAB (much faster)
+1. MATLAB version > 2016
+
+2. Either of MATLAB optimization toolbox or gurobi integrated with MATLAB (much faster)
 
 ## Optional:
 MATLAB Statistics and Machine learning Toolbox, Deep learning Toolbox these are needed for KNN, SVM and MLP results.
